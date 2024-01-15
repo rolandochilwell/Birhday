@@ -1,0 +1,31 @@
+body{
+    font-family:Arial, sans-effet;
+    margin:0;
+    padding:0;
+}
+header, nav, section, footer{
+    margin:50px;
+}
+header h1{
+    color:pink;
+}
+nav ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+nav li{
+    display:inline;
+    margin-right:50px;
+}
+nav a{
+    text-decoration:none;
+    color:blue;
+    font-weight:bold;
+}
+section{
+    margin-top:40px;
+    text-align:center;
+    color:aquamarine;
+
+}
